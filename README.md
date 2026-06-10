@@ -150,39 +150,6 @@ ai-career-copilot/
 
 ---
 
-## Installation
-
-Clone Repository
-
-git clone <repository-url>
-
-cd ai-career-copilot
-
-Create Virtual Environment
-
-python -m venv venv
-
-Activate Environment
-
-Windows:
-
-venv\Scripts\activate
-
-Install Dependencies
-
-pip install -r requirements.txt
-
-Configure Environment Variables
-
-Create a .env file and add:
-
-GROQ_API_KEY=your_api_key_here
-
-Run Application
-
-streamlit run app.py
-
----
 
 ## Usage
 
@@ -192,6 +159,40 @@ streamlit run app.py
 4. Select the desired AI agent feature.
 5. Review personalized career recommendations and insights.
 6. Use the AI Career Coach for additional guidance.
+
+---
+
+## Installation
+
+### Clone Repository
+
+git clone https://github.com/Abiinayashree/AI-Career-Copilot.git
+
+cd ai-career-copilot
+
+### Create Virtual Environment
+
+python -m venv venv
+
+### Activate Environment
+
+#### Windows
+
+venv\Scripts\activate
+
+### Install Dependencies
+
+pip install -r requirements.txt
+
+### Configure Environment Variables
+
+Create a .env file and add:
+
+GROQ_API_KEY=your_api_key_here
+
+### Run Application
+
+streamlit run app.py
 
 ---
 
