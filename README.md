@@ -238,6 +238,26 @@ Development Tools
 
 ---
 
+# Application Screenshots
+
+ Home Page
+
+![Home Page](assets/home_page.png)
+
+ Skill Gap Analysis
+
+![Skill Gap Analysis](assets/skill_gap_analysis.png)
+
+ ATS Analysis
+
+![ATS Analysis](assets/ats_analysis.png)
+
+ AI Career Coach Chatbot
+
+![Career Chatbot](assets/career_chatbot.png)
+
+---
+
 # Author
 
 Abinayashree M
@@ -253,3 +273,4 @@ Project: AI Career Copilot – Multi-Agent Career Guidance System
 # Conclusion
 
 AI Career Copilot demonstrates the practical application of Multi-Agent AI systems for career guidance and professional development. The project combines Large Language Models, prompt engineering, and modular agent design to deliver personalized career recommendations, making career planning more accessible, efficient, and intelligent for students and job seekers.
+
