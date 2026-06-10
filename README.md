@@ -1,6 +1,6 @@
-🚀 AI Career Copilot
+# 🚀 AI Career Copilot
 
-# Overview
+## Overview
 
 AI Career Copilot is a Multi-Agent AI-powered career guidance system designed to help students and job seekers analyze their skills, improve their resumes, prepare for interviews, and plan their career growth effectively.
 
@@ -10,67 +10,67 @@ This project demonstrates the implementation of a modular Multi-Agent Architectu
 
 ---
 
-# Features
+## Features
 
-📊 Skill Gap Analysis
+### 📊 Skill Gap Analysis
 
 Analyzes current skills and identifies missing skills required for a target career role.
 
-🗺 Learning Roadmap Generation
+### 🗺 Learning Roadmap Generation
 
 Creates a structured 6-month learning roadmap with recommended topics, tools, and projects.
 
-📄 Resume Analysis
+### 📄 Resume Analysis
 
 Evaluates resume content and provides improvement suggestions for better job readiness.
 
-🎯 ATS Compatibility Analysis
+### 🎯 ATS Compatibility Analysis
 
 Generates an estimated ATS compatibility score and identifies missing keywords.
 
-🚀 Project Recommendations
+### 🚀 Project Recommendations
 
 Suggests portfolio projects based on skills and career goals.
 
-🎤 Interview Preparation
+### 🎤 Interview Preparation
 
 Generates technical, HR, and scenario-based interview questions.
 
-💼 Job Matching
+### 💼 Job Matching
 
 Recommends suitable job roles aligned with user skills and career objectives.
 
-📚 Course Recommendations
+### 📚 Course Recommendations
 
 Suggests courses, learning resources, and learning sequences.
 
-📈 Career Readiness Analysis
+### 📈 Career Readiness Analysis
 
 Evaluates overall readiness for the selected career path.
 
-🔗 LinkedIn Profile Analysis
+### 🔗 LinkedIn Profile Analysis
 
 Analyzes LinkedIn profile summaries and provides optimization suggestions.
 
-📊 Job Market Intelligence
+### 📊 Job Market Intelligence
 
 Provides insights into industry trends, in-demand skills, and career opportunities.
 
-🤖 AI Career Coach Chatbot
+### 🤖 AI Career Coach Chatbot
 
 Offers interactive career guidance and answers career-related questions.
 
-🎯 Career Copilot Orchestrator Agent
+### 🎯 Career Copilot Orchestrator Agent
 
 Coordinates multiple specialized agents to support comprehensive career planning.
 
 ---
 
-# Multi-Agent Architecture
+## Multi-Agent Architecture
 
 The system follows a modular Multi-Agent Architecture where each agent performs a dedicated career guidance function.
 
-Agents Included
+### Agents Included
 
 1. Skill Gap Agent
 2. Roadmap Agent
@@ -86,7 +86,7 @@ Agents Included
 12. Career Chatbot Agent
 13. Career Copilot Orchestrator Agent
 
-# Workflow
+## Workflow
 
 User Input → Streamlit Interface → Specialized AI Agents → Career Insights & Recommendations
 
@@ -94,7 +94,7 @@ Each agent independently processes user input and returns domain-specific recomm
 
 ---
 
-# Project Structure
+## Project Structure
 
 ai-career-copilot/
 
@@ -150,7 +150,7 @@ ai-career-copilot/
 
 ---
 
-# Installation
+## Installation
 
 Clone Repository
 
@@ -184,7 +184,7 @@ streamlit run app.py
 
 ---
 
-# Usage
+## Usage
 
 1. Enter your current skills.
 2. Specify your target career goal.
@@ -195,27 +195,27 @@ streamlit run app.py
 
 ---
 
-# Technologies Used
+## Technologies Used
 
-Programming Language
+### Programming Language
 
 - Python
 
-Framework
+### Framework
 
 - Streamlit
 
-AI Model Integration
+### AI Model Integration
 
 - Groq API
 - Llama 3.1 8B Instant
 
-Libraries
+### Libraries
 
 - pypdf
 - python-dotenv
 
-Development Tools
+### Development Tools
 
 - VS Code
 - Git
@@ -223,7 +223,7 @@ Development Tools
 
 ---
 
-# Future Enhancements
+## Future Enhancements
 
 - Real-time job search integration
 - Resume-to-job matching score
@@ -238,27 +238,27 @@ Development Tools
 
 ---
 
-# Application Screenshots
+## Application Screenshots
 
- Home Page
+###  Home Page
 
 ![Home Page](assets/home_page.png)
 
- Skill Gap Analysis
+### Skill Gap Analysis
 
 ![Skill Gap Analysis](assets/skill_gap_analysis.png)
 
- ATS Analysis
+### ATS Analysis
 
 ![ATS Analysis](assets/ats_analysis.png)
 
- AI Career Coach Chatbot
+### AI Career Coach Chatbot
 
 ![Career Chatbot](assets/career_chatbot.png)
 
 ---
 
-# Author
+## Author
 
 Abinayashree M
 
@@ -270,7 +270,7 @@ Project: AI Career Copilot – Multi-Agent Career Guidance System
 
 ---
 
-# Conclusion
+## Conclusion
 
 AI Career Copilot demonstrates the practical application of Multi-Agent AI systems for career guidance and professional development. The project combines Large Language Models, prompt engineering, and modular agent design to deliver personalized career recommendations, making career planning more accessible, efficient, and intelligent for students and job seekers.
 
