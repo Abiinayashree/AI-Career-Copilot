@@ -150,7 +150,6 @@ ai-career-copilot/
 
 ---
 
-
 ## Usage
 
 1. Enter your current skills.
