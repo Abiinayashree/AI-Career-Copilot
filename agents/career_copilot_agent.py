@@ -13,6 +13,8 @@ def generate_career_plan(skills, goal, resume_text):
 
     skill_gap = analyze_skill_gap(skills, goal)
 
+    
+
     roadmap = generate_roadmap(skills, goal)
 
     resume = analyze_resume(resume_text, goal)

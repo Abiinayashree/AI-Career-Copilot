@@ -208,7 +208,7 @@ streamlit run app.py
 ### AI Model Integration
 
 - Groq API
-- Llama 3.1 8B Instant
+-  openai/gpt-oss-120b
 
 ### Libraries
 
